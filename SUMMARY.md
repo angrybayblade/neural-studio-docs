@@ -2,4 +2,5 @@
 
 * [Overview](README.md)
 * [Installation](installation.md)
+* [Basic Usage](basic-usage.md)
 
