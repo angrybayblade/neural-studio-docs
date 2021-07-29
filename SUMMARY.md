@@ -12,3 +12,7 @@
 * [Train](usage/train.md)
 * [Inference](usage/inference.md)
 
+---
+
+* [Github](https://github.com/monjoybme/Neural-Studio)
+
