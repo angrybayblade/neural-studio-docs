@@ -37,3 +37,19 @@ $ neural-studio
 ╚═════════════════════════════════╝
 ```
 
+## 1. Creating a workspace
+
+![1.1 Create new workspace.](.gitbook/assets/1.1.png)
+
+Click on the ➕ card to initialize workspace wizard.
+
+![1.2 New workspace wizard.](.gitbook/assets/1.2.png)
+
+Fill up the form according to your project.
+
+![1.3 New workspace form.](.gitbook/assets/1.3.png)
+
+After creating the workspace you'll see something like this.
+
+![](.gitbook/assets/1.4.png)
+
