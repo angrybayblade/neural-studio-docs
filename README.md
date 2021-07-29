@@ -11,8 +11,6 @@ description: >-
 
 {% page-ref page="installation.md" %}
 
-{% page-ref page="basic-usage.md" %}
-
 
 
 
