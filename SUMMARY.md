@@ -16,3 +16,12 @@
 
 * [Github](https://github.com/monjoybme/Neural-Studio)
 
+## UI Overview
+
+* [Overview](ui-overview/overview.md)
+* [Workspace Manager](ui-overview/workspace-manager.md)
+* [Dataset Builder](ui-overview/dataset-builder.md)
+* [Network Graph Editor](ui-overview/network-graph-editor.md)
+* [Traning Framework](ui-overview/traning-framework.md)
+* [In Browser Inference Engine](ui-overview/in-browser-inference-engine.md)
+
