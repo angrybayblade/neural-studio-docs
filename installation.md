@@ -1,6 +1,6 @@
 # Installation
 
-Neural Studio requires Tensorflow&gt;=2.2.0 to work. Other dependencies are as following.
+Neural Studio requires Tensorflow&gt;=2.2.0 to work. Tensorflow was removed as dependencies from PyPi distribution in version 0.1.1 to prevent version conflicts. So you need to install Tensorflow manually. Other dependencies are as following.
 
 * OpenCV
 * Numpy
